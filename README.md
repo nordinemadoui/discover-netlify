@@ -8,6 +8,6 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+* Lien vers le site déployé sur Netlify :
 
-https://app.netlify.com/sites/laughing-feynman-74fa80/settings/deploys
+https://laughing-feynman-74fa80.netlify.app/
